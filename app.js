@@ -9,7 +9,7 @@ function getRandomInt(min, max) {
 
 var minimo = 0;
 
-var maximo = 10;
+var maximo = 200;
 
 let numeroSecreto = getRandomInt(minimo, maximo);
 
